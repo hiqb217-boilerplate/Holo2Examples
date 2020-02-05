@@ -1,0 +1,11 @@
+D:\hi213\Documents\UnityFilesD\Holo2Examples\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Editor.asmdef
+D:\hi213\Documents\UnityFilesD\Holo2Examples\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Editor.asmdef.meta
+D:\hi213\Documents\UnityFilesD\Holo2Examples\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Init.cs
+D:\hi213\Documents\UnityFilesD\Holo2Examples\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Init.cs.meta
+D:\hi213\Documents\UnityFilesD\Holo2Examples\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT\x64\MonoSupport.dll
+D:\hi213\Documents\UnityFilesD\Holo2Examples\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT\x64\MonoSupport.dll.meta
+D:\hi213\Documents\UnityFilesD\Holo2Examples\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\DotNetAdapter.deps.json
+D:\hi213\Documents\UnityFilesD\Holo2Examples\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT.dll.meta
+D:\hi213\Documents\UnityFilesD\Holo2Examples\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\Plugins\netstandard2.0\Microsoft.Windows.MixedReality.DotNetWinRT.dll
+D:\hi213\Documents\UnityFilesD\Holo2Examples\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\.obj\Release\netstandard2.0\DotNetAdapter.csprojAssemblyReference.cache
+D:\hi213\Documents\UnityFilesD\Holo2Examples\Assets\MixedRealityToolkit.Providers\WindowsMixedReality\DotNetAdapter\.obj\Release\netstandard2.0\DotNetAdapter.csproj.CopyComplete
